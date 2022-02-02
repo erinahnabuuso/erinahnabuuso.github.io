@@ -10,7 +10,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: white;
+  background-color: black;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   left: 0;
   right: 0;
@@ -100,7 +100,7 @@ hr {
 }
 
 .menu-highlight {
-  color: rgb(255, 255, 255) !important;
+  color: rgb(134, 179, 166) !important;
   opacity: 1 !important;
   font-weight: 700 !important;
 }
